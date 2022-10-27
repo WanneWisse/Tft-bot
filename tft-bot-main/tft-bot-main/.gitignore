@@ -4,6 +4,7 @@ test.py
 tft to obf.py
 auth.py
 *.zip
+.env
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
